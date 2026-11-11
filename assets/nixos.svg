@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="236" viewBox="0 0 560 236" role="img" aria-labelledby="title desc">
  <title id="title">NixOS</title><desc id="desc">A system that feels like home. My flakes, packages, and desktop configuration.</desc>
- <rect x=".5" y=".5" width="559" height="235" rx="12" fill="#111e1b" stroke="#2c3d36"/>
- <path d="M22 1h72" stroke="#accbe9" stroke-width="2"/>
- <text x="26" y="32" fill="#98afa3" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.3">02 / SHAPE THE SYSTEM</text>
- <g transform="translate(25 53)" fill="none" stroke="#accbe9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m17 4 12 7v14l-12 7-12-7V11zM5 11l12 7 12-7M17 18v14"/></g>
- <text x="78" y="81" fill="#edf2e9" font-family="'DejaVu Sans',Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="-.6">NixOS</text>
- <g fill="#aebfb5" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17">
+ <rect x=".5" y=".5" width="559" height="235" rx="12" fill="#13172b" stroke="#303450"/>
+ <path d="M22 1h72" stroke="#7dd3fc" stroke-width="2"/>
+ <text x="26" y="32" fill="#a4a3c1" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.3">02 / SHAPE THE SYSTEM</text>
+ <g transform="translate(25 53)" fill="none" stroke="#7dd3fc" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m17 4 12 7v14l-12 7-12-7V11zM5 11l12 7 12-7M17 18v14"/></g>
+ <text x="78" y="81" fill="#f0f0ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="27" font-weight="600" letter-spacing="-.6">NixOS</text>
+ <g fill="#b3b2cc" font-family="'DejaVu Sans',Arial,sans-serif" font-size="17">
  <text x="26" y="124">A system that feels like home.</text><text x="26" y="150">My flakes, packages, and desktop configuration.</text></g>
- <path d="M26 176h508" stroke="#293b32"/>
- <circle cx="31" cy="206" r="3.5" fill="#accbe9"/>
- <text x="44" y="210" fill="#accbe9" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.3">NIX</text>
- <path d="M514 201h10v10M524 201l-11 11" fill="none" stroke="#accbe9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M26 176h508" stroke="#2b2e48"/>
+ <circle cx="31" cy="206" r="3.5" fill="#7dd3fc"/>
+ <text x="44" y="210" fill="#7dd3fc" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.3">NIX</text>
+ <path d="M514 201h10v10M524 201l-11 11" fill="none" stroke="#7dd3fc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
  </svg>
