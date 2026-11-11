@@ -33,14 +33,14 @@
 ### On GitHub
 
 <p>
-  <a href="https://github.com/NikitaTLN?tab=overview"><picture><source media="(max-width: 600px)" srcset="./assets/stats-mobile.svg" /><img src="./assets/stats.svg" width="100%" alt="My GitHub stats: public repositories, stars earned, followers, and contributions, commit contributions, and pull requests over the past year. Refreshed daily." /></picture></a>
+  <a href="https://github.com/NikitaTLN?tab=overview"><picture><source media="(max-width: 600px)" srcset="./assets/stats-mobile.svg" /><img src="./assets/stats.svg" width="100%" alt="My GitHub stats: public repositories, stars, followers, public and private contributions over the past year, public commit contributions over the past year, and all-time pull requests including private repositories. Refreshed daily; private repository details stay hidden." /></picture></a>
 </p>
 
 <p>
   <picture><source media="(max-width: 600px)" srcset="./assets/languages-mobile.svg" /><img src="./assets/languages.svg" width="100%" alt="My top programming languages by code bytes across public, non-fork repositories. Refreshed daily." /></picture>
 </p>
 
-<sub>Updated daily from GitHub. Language shares measure repository code, not proficiency.</sub>
+<sub>Updated daily from GitHub. PR totals include private repositories; only aggregate counts are published. Language shares cover public repository code, not proficiency.</sub>
 
 <br />
 
