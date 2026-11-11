@@ -1,39 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Nikita. Small tools. Thoughtful systems.</title>
-  <desc id="desc">A dark green developer banner with mint typography and an orbital diagram inspired by a terminal workspace.</desc>
+  <desc id="desc">A midnight blue developer banner with violet typography and an orbital diagram inspired by a terminal workspace.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142923"/><stop offset="1" stop-color="#0d1717"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#72d6b3" stop-opacity=".13"/><stop offset="1" stop-color="#72d6b3" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9bcebc" opacity=".13"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#181c3b"/><stop offset="1" stop-color="#0d1022"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#a78bfa" stop-opacity=".13"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#aaa4e0" opacity=".13"/></pattern>
   </defs>
   <rect width="1200" height="430" rx="20" fill="url(#bg)"/>
   <rect width="1200" height="430" rx="20" fill="url(#grid)"/>
   <circle cx="963" cy="212" r="290" fill="url(#glow)"/>
-  <path d="M48 48h22M48 48v22M1152 360v22h-22" stroke="#8ad6b8" stroke-width="1.5" fill="none" opacity=".5"/>
+  <path d="M48 48h22M48 48v22M1152 360v22h-22" stroke="#a78bfa" stroke-width="1.5" fill="none" opacity=".5"/>
   <g font-family="'DejaVu Sans Mono',Consolas,monospace">
-    <text x="76" y="71" fill="#a5c4b8" font-size="13" letter-spacing="3">NIKITATLN / OPEN SOURCE</text>
-    <text x="76" y="132" fill="#c1f4dd" font-size="23">Hi, I'm Nikita.</text>
+    <text x="76" y="71" fill="#aaa8cc" font-size="13" letter-spacing="3">NIKITATLN / OPEN SOURCE</text>
+    <text x="76" y="132" fill="#ddd6fe" font-size="23">Hi, I'm Nikita.</text>
   </g>
   <g font-family="'DejaVu Sans',Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-3">
-    <text x="70" y="217" fill="#f1f3e9">Small tools.</text>
-    <text x="70" y="293" fill="#a8e6ca">Thoughtful systems.</text>
+    <text x="70" y="217" fill="#f5f3ff">Small tools.</text>
+    <text x="70" y="293" fill="#c4b5fd">Thoughtful systems.</text>
   </g>
   <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13">
-    <text x="76" y="365" fill="#a5bdb3">PYTHON</text><text x="149" y="365" fill="#557b6b">/</text>
-    <text x="176" y="365" fill="#a5bdb3">NIX</text><text x="223" y="365" fill="#557b6b">/</text>
-    <text x="250" y="365" fill="#a5bdb3">LIFE IN THE TERMINAL</text>
+    <text x="76" y="365" fill="#b0afcb">PYTHON</text><text x="149" y="365" fill="#69638c">/</text>
+    <text x="176" y="365" fill="#b0afcb">NIX</text><text x="223" y="365" fill="#69638c">/</text>
+    <text x="250" y="365" fill="#b0afcb">LIFE IN THE TERMINAL</text>
   </g>
   <g transform="translate(959 207)">
-    <circle r="128" fill="none" stroke="#6eaa91" stroke-opacity=".23"/>
-    <circle r="91" fill="none" stroke="#6eaa91" stroke-opacity=".35" stroke-dasharray="3 8"/>
-    <ellipse rx="146" ry="49" transform="rotate(-38)" fill="none" stroke="#a7ddc1" stroke-opacity=".5"/>
-    <path d="M-160 0h320M0-156v312" stroke="#77ac96" stroke-opacity=".13"/>
-    <rect x="-48" y="-36" width="96" height="72" rx="16" fill="#192f28" stroke="#81cfa8" stroke-opacity=".65"/>
-    <path d="m-21-11 14 11-14 11M4 12h19" fill="none" stroke="#b8efd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="101" cy="-79" r="6" fill="#c5e4a3"/>
-    <circle cx="-85" cy="43" r="4" fill="#87d5b8"/>
-    <circle cx="-24" cy="126" r="4" fill="#e2c99b"/>
-    <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#a5c4b8" letter-spacing="1">
+    <circle r="128" fill="none" stroke="#8b80bf" stroke-opacity=".23"/>
+    <circle r="91" fill="none" stroke="#8b80bf" stroke-opacity=".35" stroke-dasharray="3 8"/>
+    <ellipse rx="146" ry="49" transform="rotate(-38)" fill="none" stroke="#b7a6ec" stroke-opacity=".5"/>
+    <path d="M-160 0h320M0-156v312" stroke="#9386c6" stroke-opacity=".13"/>
+    <rect x="-48" y="-36" width="96" height="72" rx="16" fill="#252343" stroke="#a78bfa" stroke-opacity=".65"/>
+    <path d="m-21-11 14 11-14 11M4 12h19" fill="none" stroke="#ddd6fe" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="101" cy="-79" r="6" fill="#7dd3fc"/>
+    <circle cx="-85" cy="43" r="4" fill="#c4b5fd"/>
+    <circle cx="-24" cy="126" r="4" fill="#f0abfc"/>
+    <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" fill="#aaa8cc" letter-spacing="1">
       <text x="-23" y="-148">BUILD</text><text x="-43" y="171">MAKE IT YOURS</text>
     </g>
   </g>
