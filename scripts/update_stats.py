@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build profile cards from public GitHub data using only the standard library."""
+"""Build profile cards; publish aggregate activity and public repository data only."""
 
 import json
 import os
@@ -70,7 +70,7 @@ def stats_card(stats, date, mobile=False):
             text(x, y + 26, label, 18),
             text(x, y + 45, period, 12, "#a4a3c1", mono=True),
         ]
-    svg += [text(28, height - 20, f"PUBLIC GITHUB DATA / UPDATED {date}", 11, "#a4a3c1", mono=True), "</svg>"]
+    svg += [text(28, height - 20, f"GITHUB ACTIVITY / UPDATED {date}", 11, "#a4a3c1", mono=True), "</svg>"]
     return "\n".join(svg) + "\n"
 
 
@@ -122,24 +122,25 @@ def main():
         if len(batch) < 100:
             break
         page += 1
-    contributions = api("graphql", {"query": """
+    activity = api("graphql", {"query": """
         query {
           user(login: "NikitaTLN") {
+            pullRequests { totalCount }
             contributionsCollection {
               totalCommitContributions
-              totalPullRequestContributions
               contributionCalendar { totalContributions }
             }
           }
         }
-    """})["data"]["user"]["contributionsCollection"]
+    """})["data"]["user"]
+    contributions = activity["contributionsCollection"]
     stats = [
         ("Public repositories", profile["public_repos"], "all time"),
         ("Stars earned", sum(repo["stargazers_count"] for repo in repositories if not repo["fork"]), "owned non-fork repos"),
         ("Followers", profile["followers"], "right now"),
-        ("Contributions", contributions["contributionCalendar"]["totalContributions"], "past year"),
-        ("Commit contributions", contributions["totalCommitContributions"], "past year"),
-        ("Pull requests", contributions["totalPullRequestContributions"], "past year"),
+        ("Contributions", contributions["contributionCalendar"]["totalContributions"], "public + private / past year"),
+        ("Commit contributions", contributions["totalCommitContributions"], "public / past year"),
+        ("Pull requests", activity["pullRequests"]["totalCount"], "public + private / all time"),
     ]
     languages = Counter()
     for repo in repositories:
