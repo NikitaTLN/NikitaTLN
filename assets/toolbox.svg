@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title"><title id="title">Python, Nix, Lua, Shell, Neovim, and Git</title>
+<rect x="0.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="29" cy="38" r="4" fill="#b4e8cb"/><text x="47" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#b4e8cb">Python</text>
+<rect x="202.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="231" cy="38" r="4" fill="#accbe9"/><text x="249" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#accbe9">Nix</text>
+<rect x="404.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="433" cy="38" r="4" fill="#d0c5ee"/><text x="451" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#d0c5ee">Lua</text>
+<rect x="606.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="635" cy="38" r="4" fill="#e5c99d"/><text x="653" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#e5c99d">Shell</text>
+<rect x="808.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="837" cy="38" r="4" fill="#b4e8cb"/><text x="855" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#b4e8cb">Neovim</text>
+<rect x="1010.5" y=".5" width="189" height="75" rx="10" fill="#111e1b" stroke="#2c3d36"/><circle cx="1039" cy="38" r="4" fill="#e6afa2"/><text x="1057" y="45" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="21" fill="#e6afa2">Git</text>
+</svg>

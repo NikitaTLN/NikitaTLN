@@ -1,16 +1,45 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Nikita. Small tools. Thoughtful systems. Python, Nix, and the terminal." />
+</p>
 
-<!--
-**NikitaTLN/NikitaTLN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build Python tools and shape my development environment with <strong>Nix, Neovim, and shell scripts.</strong><br />
+  This is my corner of the internet for useful projects and a setup that feels like home.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/NikitaTLN?tab=repositories">Explore my repositories ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/NikitaTLN/quickmark">Meet Quickmark ↗</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### A few things I've made
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/NikitaTLN/quickmark"><picture><source media="(max-width: 600px)" srcset="./assets/quickmark-mobile.svg" /><img src="./assets/quickmark.svg" width="100%" alt="Quickmark — a Python static site generator with a built-in editor. Markdown in, a website out. Open repository." /></picture></a></td>
+    <td width="50%"><a href="https://github.com/NikitaTLN/nixos"><picture><source media="(max-width: 600px)" srcset="./assets/nixos-mobile.svg" /><img src="./assets/nixos.svg" width="100%" alt="NixOS — my system configuration, from flakes and packages to the details of my desktop. Open repository." /></picture></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/NikitaTLN/Neovim-native"><picture><source media="(max-width: 600px)" srcset="./assets/neovim-mobile.svg" /><img src="./assets/neovim.svg" width="100%" alt="Neovim native — my Lua-based Neovim configuration. A workspace that starts in the terminal. Open repository." /></picture></a></td>
+    <td width="50%"><a href="https://github.com/NikitaTLN/gcom"><picture><source media="(max-width: 600px)" srcset="./assets/gcom-mobile.svg" /><img src="./assets/gcom.svg" width="100%" alt="gcom — small Python scripts for git add, commit, and push. Less repetition in the everyday workflow. Open repository." /></picture></a></td>
+  </tr>
+</table>
+
+<br />
+
+### My kind of toolbox
+
+<p>
+  <picture><source media="(max-width: 600px)" srcset="./assets/toolbox-mobile.svg" /><img src="./assets/toolbox.svg" width="100%" alt="My toolbox: Python, Nix, Lua, Shell, Neovim, and Git." /></picture>
+</p>
+
+Python for the useful little things. Nix for the system. Neovim for the space in between.
+
+<br />
+
+---
+
+<p align="center"><sub>Built with curiosity. Kept simple. &nbsp; / &nbsp; <a href="https://github.com/NikitaTLN">@NikitaTLN</a></sub></p>
