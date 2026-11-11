@@ -2,12 +2,12 @@
 <title id="title">Languages in my repositories</title><desc id="desc">Share of code bytes across my public, non-fork repositories.</desc>
 <rect x=".5" y=".5" width="1199" height="299" rx="16" fill="#13172b" stroke="#303450"/>
 <text x="28" y="42" fill="#f0f0ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="25" font-weight="600">Languages in my repositories</text>
-<rect x="28.000" y="72" width="1117.572" height="16" fill="#c4b5fd"/>
-<rect x="1145.572" y="72" width="12.187" height="16" fill="#7dd3fc"/>
-<rect x="1157.759" y="72" width="8.816" height="16" fill="#f0abfc"/>
-<rect x="1166.576" y="72" width="1.711" height="16" fill="#a5b4fc"/>
-<rect x="1168.287" y="72" width="1.112" height="16" fill="#f9a8d4"/>
-<rect x="1169.399" y="72" width="2.601" height="16" fill="#94a3b8"/>
+<rect x="28.000" y="72" width="1117.293" height="16" fill="#c4b5fd"/>
+<rect x="1145.293" y="72" width="12.184" height="16" fill="#7dd3fc"/>
+<rect x="1157.478" y="72" width="9.099" height="16" fill="#f0abfc"/>
+<rect x="1166.577" y="72" width="1.711" height="16" fill="#a5b4fc"/>
+<rect x="1168.288" y="72" width="1.112" height="16" fill="#f9a8d4"/>
+<rect x="1169.400" y="72" width="2.600" height="16" fill="#94a3b8"/>
 <circle cx="33.0" cy="129" r="4" fill="#c4b5fd"/>
 <text x="47.0" y="135" fill="#f0f0ff" font-family="'DejaVu Sans',Arial,sans-serif" font-size="19" font-weight="400">CSS</text>
 <text x="47.0" y="159" fill="#c4b5fd" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="17" font-weight="400">97.7%</text>
