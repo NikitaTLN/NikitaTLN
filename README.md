@@ -23,8 +23,8 @@
     <td width="50%"><a href="https://github.com/NikitaTLN/nixos"><picture><source media="(max-width: 600px)" srcset="./assets/nixos-mobile.svg" /><img src="./assets/nixos.svg" width="100%" alt="NixOS — my system configuration, from flakes and packages to the details of my desktop. Open repository." /></picture></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/NikitaTLN/Neovim-native"><picture><source media="(max-width: 600px)" srcset="./assets/neovim-mobile.svg" /><img src="./assets/neovim.svg" width="100%" alt="Neovim native — my Lua-based Neovim configuration. A workspace that starts in the terminal. Open repository." /></picture></a></td>
-    <td width="50%"><a href="https://github.com/NikitaTLN/gcom"><picture><source media="(max-width: 600px)" srcset="./assets/gcom-mobile.svg" /><img src="./assets/gcom.svg" width="100%" alt="gcom — small Python scripts for git add, commit, and push. Less repetition in the everyday workflow. Open repository." /></picture></a></td>
+    <td width="50%"><a href="https://github.com/NikitaTLN/tlnstack"><picture><source media="(max-width: 600px)" srcset="./assets/tlnstack-mobile.svg" /><img src="./assets/tlnstack.svg" width="100%" alt="tlnstack — my personal agent stack: global instructions, skills, and machine setup. Open repository." /></picture></a></td>
+    <td width="50%"><a href="https://github.com/NikitaTLN/TLN2Code"><picture><source media="(max-width: 600px)" srcset="./assets/tln2code-mobile.svg" /><img src="./assets/tln2code.svg" width="100%" alt="TLN2Code — my personal T3 Code fork, following published upstream nightlies. Open repository." /></picture></a></td>
   </tr>
 </table>
 
